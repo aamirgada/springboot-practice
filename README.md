@@ -45,15 +45,15 @@ The codebase will evolve over time as I deepen my understanding of:
 
 ## 📈 Progress Tracker
 
-| Topic | Status |
-|------|--------|
-| Project Setup | ✅ Completed |
-| Controllers | ✅ Practicing |
-| Services Layer | ✅ Practicing |
-| Repository Layer | ✅ Practicing |
+| Topic | Status         |
+|------|----------------|
+| Project Setup | ✅ Completed    |
+| Controllers | ✅ Completed    |
+| Services Layer | ✅ Completed    |
+| Repository Layer | ✅ Completed    |
 | REST APIs | 🔄 In Progress |
-| Database Integration | ⬜ Coming Soon |
-| Security (Spring Security) | ⬜ Coming Soon |
+| Database Integration | ⬜ Coming Soon  |
+| Security (Spring Security) | ⬜ Coming Soon  |
 
 ---
 
